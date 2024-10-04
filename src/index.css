@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: aquamarine;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  .venue-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .venue-card {
+    border: 1px solid #ccc;
+    margin: 10px;
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .venue-card img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .reserve-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .reserve-button:hover {
+    background-color: #0056b3;
+  }
+  
