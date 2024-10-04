@@ -25,8 +25,8 @@ To run the project locally, make sure you have the following installed:
 1. **Clone the Repository**  
    Open a terminal and run the following command to clone the repository:
    ```bash
-   git clone https://github.com/yourusername/venue-booking-app.git
-   cd venue-booking-app
+   git clone https://github.com/runcisduncis/venue-app
+   cd venue-app
    ```
 
 2. **Install Dependencies**  
